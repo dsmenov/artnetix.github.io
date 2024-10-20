@@ -1,3 +1,4 @@
 # artnetix.com (ex.artmedia.dn.ua)
+Former artmedia.dn.ua
 
-## We will back soon 
+[artnetix.com](https://artnetix.com)
